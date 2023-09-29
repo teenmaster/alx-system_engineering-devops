@@ -1,2 +1,2 @@
 #!/bin/bash
-file_type=$(file -b "/tmp/school")
+file_type=$(file -b "$/tmp/school")

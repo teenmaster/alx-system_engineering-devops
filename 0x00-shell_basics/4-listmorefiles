@@ -1,2 +1,2 @@
 #!/bin/bash
-long format
+ls -al

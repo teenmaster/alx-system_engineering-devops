@@ -1,2 +1,2 @@
 #!/bin/bash
-seventh
+chmod u+x,g+x,o+x hello

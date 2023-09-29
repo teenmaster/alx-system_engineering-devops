@@ -1,2 +1,2 @@
 #!/bin/bash
-digits only
+ls -lan

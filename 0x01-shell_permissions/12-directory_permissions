@@ -1,2 +1,2 @@
 #!/bin/bash
-13
+mkdir -m 751 my_dir

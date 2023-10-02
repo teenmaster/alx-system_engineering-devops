@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 enga-1 enga-1 4096 Oct  3 00:24 .
+drwxr-xr-x 7 enga-1 enga-1 4096 Oct  2 10:13 ..
+-rwxr-xr-x 1 enga-1 enga-1   32 Oct  2 10:17 0-hello_world
+-rwxr-xr-x 1 enga-1 enga-1   28 Oct  2 11:19 1-confused_smiley
+-rwxr-xr-x 1 enga-1 enga-1   28 Oct  2 11:26 2-hellofile
+-rwxr-xr-x 1 enga-1 enga-1   39 Oct  2 23:46 3-twofiles
+-rwxr-xr-x 1 enga-1 enga-1   35 Oct  2 23:49 4-lastlines
+-rwxr-xr-x 1 enga-1 enga-1   35 Oct  2 23:52 5-firstlines
+-rwxr-xr-x 1 enga-1 enga-1   41 Oct  3 00:17 6-third_line
+-rwxr-xr-x 1 enga-1 enga-1   99 Oct  3 00:11 7-file
+-rwxr-xr-x 1 enga-1 enga-1   36 Oct  3 00:24 8-cwd_state
+-rw-r--r-- 1 enga-1 enga-1   75 Oct  2 10:15 README.md
+-rw-r--r-- 1 enga-1 enga-1   12 Oct  3 00:11 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 enga-1 enga-1    0 Oct  3 00:24 ls_cwd_content
